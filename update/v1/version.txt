@@ -1,0 +1,8 @@
+{
+    "description":"",
+    "format":".lzma",
+    "main":"\\智慧学习.exe",
+    "updater":"\\智慧学习.exe",
+    "url":"https://aiyotu.github.io/xx/update/v1/",
+    "version":"1.0.0.07"
+}
